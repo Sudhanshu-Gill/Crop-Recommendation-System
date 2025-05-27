@@ -1,4 +1,5 @@
 # Crop-Recommendation-System
+# Crop-Recommendation-System
 This project is a machine learning-based recommendation system that suggests the most suitable crop to cultivate based on soil and weather conditions. It uses classification techniques to analyze key features like nutrient content, pH, temperature, humidity, and rainfall.
 
 -> Dataset
